@@ -1,0 +1,14 @@
+C:\zemsania\project\net\appuno\bin\Debug\netcoreapp2.2\appuno.deps.json
+C:\zemsania\project\net\appuno\bin\Debug\netcoreapp2.2\appuno.runtimeconfig.json
+C:\zemsania\project\net\appuno\bin\Debug\netcoreapp2.2\appuno.runtimeconfig.dev.json
+C:\zemsania\project\net\appuno\bin\Debug\netcoreapp2.2\appuno.dll
+C:\zemsania\project\net\appuno\bin\Debug\netcoreapp2.2\appuno.pdb
+C:\zemsania\project\net\appuno\obj\Debug\netcoreapp2.2\appuno.csprojAssemblyReference.cache
+C:\zemsania\project\net\appuno\obj\Debug\netcoreapp2.2\appuno.csproj.CoreCompileInputs.cache
+C:\zemsania\project\net\appuno\obj\Debug\netcoreapp2.2\appuno.RazorAssemblyInfo.cache
+C:\zemsania\project\net\appuno\obj\Debug\netcoreapp2.2\appuno.RazorAssemblyInfo.cs
+C:\zemsania\project\net\appuno\obj\Debug\netcoreapp2.2\appuno.AssemblyInfoInputs.cache
+C:\zemsania\project\net\appuno\obj\Debug\netcoreapp2.2\appuno.AssemblyInfo.cs
+C:\zemsania\project\net\appuno\obj\Debug\netcoreapp2.2\appuno.RazorTargetAssemblyInfo.cache
+C:\zemsania\project\net\appuno\obj\Debug\netcoreapp2.2\appuno.dll
+C:\zemsania\project\net\appuno\obj\Debug\netcoreapp2.2\appuno.pdb
